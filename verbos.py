@@ -32,7 +32,4 @@ terminacion = verbo[len(verbo) - 2] + verbo[len(verbo) - 1]
 verboSinTerminacion = verbo.replace(terminacion, '')
 
 for persona in personas:
-    print(persona)
-    print(verboSinTerminacion)
-    print(personas[persona][terminacion])
     print(persona, verboSinTerminacion + personas[persona][terminacion])
