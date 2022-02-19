@@ -2,7 +2,7 @@
 
 Esta es una introduccion a Python
 
-Por Jeyson Calvache
+Por Jeyson Alejandro Calvache David
 
 Este es un cambio desde el repositorio de la casa
 
